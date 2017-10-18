@@ -1,0 +1,91 @@
+#root{
+    
+  -fx-background-color:#242d35; 
+  -fx-background-image: url("zbackground2.jpg");
+  -fx-background-size:cover;
+  -fx-background-opacity: 0.8;
+}
+
+
+
+#th1{
+    -fx-font-size: 15;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+#th2{
+    -fx-font-size: 15;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+#th3{
+    -fx-font-size: 15;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+#th4{
+    -fx-font-size: 15;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+#th5{
+    -fx-font-size: 12;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+
+
+#th1b{
+    -fx-font-size: 15;
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+}
+
+#th2b{
+    -fx-font-size: 15;
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+}
+
+#th3b{
+    -fx-font-size: 15;
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+}
+
+#th4b{
+    -fx-font-size: 15;
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+}
+
+#th5b{
+    -fx-font-size: 12;
+    -fx-text-fill:black;
+    -fx-font-weight: bold;
+}
+
+
+
+#thX{
+    -fx-font-size: 18;
+    -fx-text-fill:red;
+    -fx-font-weight: bold;
+}
+
+
+#tooltip{
+    -fx-font-size: 16;
+    -fx-border-width: 4;
+/*    //-fx-border-radius: 10;
+    //-fx-background-radius: 10;*/
+    -fx-border-color: #45cff8;
+    -fx-background-image: url("zbackground2.jpg");
+  -fx-background-size:cover;
+  -fx-background-opacity: 0.8;
+}
